@@ -1,4 +1,6 @@
-# CourseOfReactJS
+# Simple Page With ReactJS
+## I approchead Components, Consuming REST API with axios and use bootstrap styles.
+
 
 ![](https://lh3.googleusercontent.com/a-/AAuE7mBJIVJE8a3rkWTnNtJwgXnhE9SvyyFvAaD578QrRQ=s120-p-rw-no)
 
@@ -39,4 +41,8 @@ Each print is a component in reactjs.
 
 ## My website:
 ##### https://jacode.com.br
+
+
+## My Linkedin
+##### https://www.linkedin.com/in/daniel-de-andrade-lopes-5242b4b1/
 
