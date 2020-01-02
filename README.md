@@ -1,5 +1,5 @@
 # CourseOfReactJS
 
-para acessar o curso gratuito entre no nosso site:
+In this repository I approached how you can use bootstrap in a reactjs project.
 
 www.jacode.com.br
